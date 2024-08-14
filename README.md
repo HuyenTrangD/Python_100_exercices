@@ -1,6 +1,6 @@
 # Challenge#2 : 100 exercices Python pour s'entraîner
 
-## Source d'exercice : Livre "100 exercices Python pour s'entraîner" par Laurentine K.Masson
+### Source d'exercices : Livre "100 exercices Python pour s'entraîner" par Laurentine K.Masson
 
 Mon ami m'a offert ce livre pour que je puisse monter en compétences en Python. C'est un ensemble d'exercices avec différents niveaux de complexité.
 
