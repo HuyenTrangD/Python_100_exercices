@@ -1,4 +1,4 @@
-# Challenge#2 : 100 exercices Python pour s'entraîner
+# 100 exercices Python pour s'entraîner
 
 ### Source d'exercices : Livre "100 exercices Python pour s'entraîner" par Laurentine K.Masson
 
