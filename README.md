@@ -8,7 +8,6 @@ Au début, les concepts étaient parfois intimidants pour une débutante comme m
 
 ### Ce que j'ai appris et maîtrisé au fil de ce challenge :
 - **Notions de base** : Compréhension et manipulation des structures de données essentielles telles que les listes, tuples (immutables), ensembles, et dictionnaires, ainsi que les différences caractéristiques entre ces types.
-- **Création de fonctions et de classes** : Maîtrise de la définition de fonctions avec `def()` et de la création de classes avec des méthodes et attributs, y compris les méthodes spéciales comme `__init__`, `__str__`, `__repr__`.
 - **Fonctions de base** :
   - Utilisation de fonctions essentielles comme `input()`, `type()`, `len()`, `range()`, `sum()`.
   - Transformation des types de données : `str()`, `int()`, `float()` pour une manipulation flexible des variables.
@@ -20,6 +19,7 @@ Au début, les concepts étaient parfois intimidants pour une débutante comme m
 - **Boucles** : Mise en œuvre des boucles `for` et `while` pour des itérations efficaces.
 - **Manipulation des fichiers** : Utilisation du module `os` pour ouvrir, lire, écrire et fermer des fichiers, en renforçant ma capacité à manipuler des données externes.
 - **Modules essentiels** : Exploration des modules comme `os`, `time`, `datetime`, `math`, `random`, `string` pour répondre à des besoins spécifiques .
+- **Création de fonctions et de classes** : Maîtrise de la définition de fonctions avec `def()` et de la création de classes avec des méthodes et attributs, y compris les méthodes spéciales comme `__init__`, `__str__`, `__repr__`.
 
 ### Conclusion
 Je suis extrêmement fière d'avoir mené à bien ce challenge de 100 exercices Python. Ce parcours m'a non seulement permis de découvrir et de maîtriser les nombreuses fonctionnalités et méthodes de Python, mais il a aussi renforcé ma confiance en mes capacités à aborder et résoudre des problèmes concrets avec ce langage. Ma motivation à continuer d'apprendre et d'explorer Python est plus forte que jamais, et je suis impatiente de relever de nouveaux défis.
